@@ -1,0 +1,77 @@
+#vertices
+Seattle
+San Francisco
+Los Angeles
+Las Vegas
+Boise
+Salt Lake City
+Phoenix
+Denver
+Albuquerque
+Minneapolis
+Kansas City
+Tulsa
+Houston
+Chicago
+Memphis
+New Orleans
+Cincinnati
+Atlanta
+Buffalo
+Pittsburgh
+Charleston
+Washington
+Durham
+Miami
+New York City
+Boston
+Billings
+Bozeman
+#edges
+Seattle<=>San Francisco,I-5,800
+Seattle<=>Las Vegas,I-84,1130
+San Francisco<=>Los Angeles,I-5,380
+Las Vegas<=>Los Angeles,I-15,260
+San Francisco<=>Salt Lake City,I-80,740
+San Francisco<=>Las Vegas,I-15,560
+Las Vegas<=>Denver,I-70,750
+Salt Lake City<=>Denver,I-80,535
+Denver<=>Albuquerque,I-25,450
+Denver<=>Kansas City,I-70,600
+Albuquerque<=>Houston,I-40,880
+Kansas City<=>Tulsa,I-44,270
+Denver<=>Minneapolis,I-80,920
+Minneapolis<=>Chicago,I-94,410
+Kansas City<=>Chicago,I-35,525
+Houston<=>New Orleans,I-10,350
+Houston<=>Memphis,I-30,600
+New Orleans<=>Atlanta,I-85,470
+Memphis<=>Atlanta,I-20,380
+Chicago<=>Memphis,I-57,530
+Chicago<=>Cincinnati,I-65,295
+Cincinnati<=>Atlanta,I-75,460
+Atlanta<=>Durham,I-85,380
+Durham<=>Washington,I-95,360
+Charleston<=>Washington,I-79,330
+Durham<=>Charleston,I-77,295
+Washington<=>Pittsburgh,I-76,240
+Charleston<=>Pittsburgh,I-79,230
+Pittsburgh<=>Buffalo,I-79,220
+Pittsburgh<=>New York City,I-76,380
+Buffalo<=>Boston,I-90,450
+New York City<=>Boston,I-95,230
+Phoenix<=>Los Angeles,I-10,370
+Phoenix<=>Albuquerque,I-40,420
+Boise<=>Salt Lake City,I-84,340
+Boise<=>Seattle,I-84,505
+Tulsa<=>Albuquerque,I-40,650
+Tulsa<=>Houston,I-45,495
+Tulsa<=>Memphis,I-40,400
+Atlanta<=>Miami,I-75,665
+Washington<=>New York City,I-95,225
+Charleston<=>Cincinnati,I-35,205
+Memphis<=>New Orleans,I-55,395
+Las Vegas<=>Phoenix,I-93,300
+Kansas City<=>Minneapolis,I-35,440
+Billings<=>Bozeman,I-90,145
+Cincinnati<=>Pittsburgh,I-70,290

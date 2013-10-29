@@ -1,0 +1,10 @@
+#vertices
+Ohio
+Pennsylvania
+Chicago
+New York
+#edges
+Chicago<=>Ohio,leg 1 and 6,30
+Ohio<=>Pennsylvania,leg 2 and 5,45
+Pennsylvania<=New York,leg 4,30
+New York<=Pennsylvania,leg 3,25
